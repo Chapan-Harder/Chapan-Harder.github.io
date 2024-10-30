@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
- BASE_PATH: '/Chapan-Harder.github.io'
+ BASE_PATH: '/${{ Chapan-Harder.github.io  }}'
         run: |
  npm run build
 
