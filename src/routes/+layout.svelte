@@ -8,7 +8,7 @@
 		<img
 			src="/pictures/Background.png"
 			alt="Background.png"
-			class="animate-infinite-rotation min-h-full min-w-full -translate-x-1/2 -translate-y-1/2 scale-[5] object-cover lg:scale-[3]"
+			class="min-h-full min-w-full -translate-x-1/2 -translate-y-1/2 scale-[5] animate-infinite-rotation object-cover lg:scale-[3]"
 		/>
 	</div>
 	{@render children()}
