@@ -21,7 +21,7 @@
 	</div>
 	<!-- Links -->
 	<div
-		class="grid grid-cols-2 gap-2 overflow-x-hidden overflow-y-scroll max-lg:mt-12 md:h-[350px] lg:h-[510px] lg:w-[400px]"
+		class="grid grid-cols-2 gap-2 overflow-x-hidden overflow-y-scroll max-lg:mt-12 md:h-[350px] lg:h-[510px] lg:w-[400px] no-scrollbar"
 	>
 		<Button
 			loadPicture="pictures/Aparat.webp"
