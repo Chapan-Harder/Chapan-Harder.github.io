@@ -53,7 +53,6 @@
 			inputLink="https://cara.app/chapanharder/portfolio"
 			inputText="Cara"
 		/>
-
 		<Button
 			loadPicture="pictures/tiktok-logo-tikok-icon-transparent-tikok-app-logo-free-png.webp"
 			inputLink="https://www.tiktok.com/@chapan_harder?_t=ZS-8xVRscyHa4K&_r=1"
