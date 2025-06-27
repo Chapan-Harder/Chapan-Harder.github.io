@@ -21,7 +21,7 @@
 	</div>
 	<!-- Links -->
 	<div
-		class="grid grid-cols-2 gap-2 overflow-x-hidden overflow-y-scroll max-lg:mt-12 md:h-[350px] lg:h-[510px] lg:w-[400px] no-scrollbar"
+		class="no-scrollbar grid grid-cols-2 gap-2 overflow-x-hidden overflow-y-scroll max-lg:mt-12 md:h-[350px] lg:h-[510px] lg:w-[400px]"
 	>
 		<Button
 			loadPicture="pictures/Aparat.webp"
@@ -54,9 +54,9 @@
 			inputText="Cara"
 		/>
 		<Button
-			loadPicture="pictures/Instagram_logo_2022.svg.webp"
-			inputLink="https://www.instagram.com/chapanharder?igsh=ZGUzMzM3NWJiOQ=="
-			inputText="Instagram"
+			loadPicture="pictures/tiktok-logo-tikok-icon-transparent-tikok-app-logo-free-png.webp"
+			inputLink="https://www.tiktok.com/@chapan_harder?_t=ZS-8xVRscyHa4K&_r=1"
+			inputText="Tiktok"
 		/>
 		<Button
 			loadPicture="pictures/virasty.png"
